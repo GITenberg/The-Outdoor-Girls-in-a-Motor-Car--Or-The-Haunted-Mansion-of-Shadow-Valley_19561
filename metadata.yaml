@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19561#The-Outdoor-Girls-in-a-Motor-Car--Or-The-Haunted-Mansion-of-Shadow-Valley
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-10-17'
 gutenberg_type: Text
